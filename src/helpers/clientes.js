@@ -1,4 +1,4 @@
-
+// carpeta cliente
 const Cliente = require('../models/clientes')
 
 const clienteHelper = {
